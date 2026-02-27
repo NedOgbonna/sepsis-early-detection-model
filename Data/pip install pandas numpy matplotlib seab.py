@@ -1,0 +1,2 @@
+pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn shap xgboost jupyter
+pip freeze > requirements.txt
